@@ -1,0 +1,3 @@
+[submodule "microservices/transaction-category-service"]
+	path = microservices/transaction-category-service
+	url = https://github.com/Andre-devel/transaction-category-service.git
