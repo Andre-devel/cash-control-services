@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <annotationProcessing>
-      <profile name="Gradle Imported" enabled="true">
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="false">
-          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.38/57f8f5e02e92a30fd21b80cbd426a4172b5f8e29/lombok-1.18.38.jar" />
-        </processorPath>
-        <module name="transaction-category-service.main" />
-      </profile>
-    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="transaction-category-service.src.main.java.br.com.andredeve.transaction.category.discovery-service" target="21" />
+      <module name="transaction-category-service.src.main.java.br.com.andredeve.transaction.category.discovery-service.main" target="21" />
+      <module name="transaction-category-service.src.main.java.br.com.andredeve.transaction.category.discovery-service.test" target="21" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="discovery-service" options="-parameters" />
+      <module name="discovery-service.main" options="-parameters" />
+      <module name="discovery-service.test" options="-parameters" />
       <module name="transaction-category-service" options="-parameters" />
       <module name="transaction-category-service.main" options="-parameters" />
       <module name="transaction-category-service.test" options="-parameters" />
