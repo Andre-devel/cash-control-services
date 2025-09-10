@@ -4,3 +4,6 @@
 [submodule "microservices/discovery-service"]
 	path = microservices/discovery-service
 	url = https://github.com/Andre-devel/discovery-service.git
+[submodule "microservices/config-service"]
+	path = microservices/config-service
+	url = https://github.com/Andre-devel/config-service.git
