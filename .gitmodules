@@ -7,3 +7,6 @@
 [submodule "microservices/config-service"]
 	path = microservices/config-service
 	url = https://github.com/Andre-devel/config-service.git
+[submodule "microservices/user-service"]
+	path = microservices/user-service
+	url = https://github.com/Andre-devel/user-service.git
