@@ -13,6 +13,6 @@
 [submodule "microservices/auth-service"]
 	path = microservices/auth-service
 	url = https://github.com/Andre-devel/auth-service.git
-[submodule "microservices/microservices/gateway-service"]
-	path = microservices/microservices/gateway-service
+[submodule "microservices/gateway-service"]
+	path = microservices/gateway-service
 	url = https://github.com/Andre-devel/gateway-service.git
