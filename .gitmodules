@@ -10,3 +10,6 @@
 [submodule "microservices/user-service"]
 	path = microservices/user-service
 	url = https://github.com/Andre-devel/user-service.git
+[submodule "microservices/auth-service"]
+	path = microservices/auth-service
+	url = https://github.com/Andre-devel/auth-service.git
